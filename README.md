@@ -11,4 +11,4 @@
 + user-revceive-password-mail-option:
   + username: nam_mail
   + password: nam147258
-  (change mail of this user to test reset function)
+  + (change user'email to test reset function)
