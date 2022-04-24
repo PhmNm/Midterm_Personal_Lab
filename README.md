@@ -1,7 +1,7 @@
 # Midterm_Personal_Lab
 SE_midterm_personal_lab
 + admin-control-page: https://midterm-se.herokuapp.com/admin/ \
-login:
+# Login accounts:
 + admin option:
   + username: nam
   + password: nam147258
