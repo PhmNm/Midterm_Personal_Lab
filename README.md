@@ -9,10 +9,6 @@
 + user-test:
   + username: nam_test
   + password: nam147258
-+ user-revceive-password-mail-option:
-  + username: nam_mail
-  + password: nam147258
-  + (change user'email to test reset function)
 # Note
 + email has been deleted from settings.py for personal security information
 + please configure your own email in settings.py and re-deploy to use the reset-password function with your own project
