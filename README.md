@@ -13,7 +13,7 @@
   + username: nam_mail
   + password: nam147258
   + (change user'email to test reset function)
-#Note
+# Note
 + email has been deleted from settings.py for personal security information
 + please configure your own email in settings.py and re-deploy to use the reset-password function with your own project
 + the heroku-app was restricted by Gmail so that the function cant run in the demo above. 🐧
