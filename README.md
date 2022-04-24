@@ -2,7 +2,7 @@
 + github link: https://github.com/PhmNm/Midterm_Personal_Lab
 + user page: https://midterm-se.herokuapp.com/
 + admin control page: https://midterm-se.herokuapp.com/admin/ (use admin-option to log in)
-# Login accounts:
+# Login accounts
 + admin-option:
   + username: nam
   + password: nam147258
@@ -13,3 +13,5 @@
   + username: nam_mail
   + password: nam147258
   + (change user'email to test reset function)
+#Note
++ email has been deleted from settings.py for personal security information, please configure your own email to use reset password function
