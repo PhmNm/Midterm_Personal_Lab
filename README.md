@@ -1,5 +1,5 @@
 # Midterm_Personal_Lab
-+ admin-control-page: https://midterm-se.herokuapp.com/admin/ \
++ admin-control-page: https://midterm-se.herokuapp.com/admin/
 # Login accounts:
 + admin option:
   + username: nam
