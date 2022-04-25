@@ -7,7 +7,7 @@
   + username: nam
   + password: nam147258
 + user-test:
-  + username: nam_test
+  + username: nam_mail
   + password: nam147258
 # Note
 + email has been deleted from settings.py for personal security information
